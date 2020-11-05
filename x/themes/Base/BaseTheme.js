@@ -61,8 +61,8 @@ export const BaseTheme = {
                 borderColor: Colors.white30,
             },
             blue: {
-                backgroundColor: Colors.black,
-                borderColor: Colors.black,
+                backgroundColor: Colors.blue50,
+                borderColor: Colors.blue100,
             },
             red: {
                 backgroundColor: Colors.red100,
@@ -137,8 +137,8 @@ export const BaseTheme = {
                 'rgb(0, 0, 0)'
             ],
             dark_blue: [
-                'rgb(7, 35, 57)',
-                'rgb(5, 26, 43)'
+                'rgb(0, 0, 0)',
+                'rgb(0, 0, 0)'
             ],
             blue: [
                 'rgb(0, 0, 0)',
