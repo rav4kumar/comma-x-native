@@ -13,7 +13,7 @@ const Theme = {
       foo: 55,
     },
     colors: {
-      bar: '#011235',
+      bar: '#000000',
     }
   },
 }
