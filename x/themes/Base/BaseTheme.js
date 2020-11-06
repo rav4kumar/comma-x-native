@@ -18,8 +18,8 @@ export const BaseTheme = {
             bold: null,
         },
         colors: {
-            default: Colors.blue800,
-            light: Colors.desatBlue800,
+            default: Colors.black,
+            light: Colors.black,
             darkGrey: Colors.grey900,
             white: Colors.white,
         },
@@ -61,8 +61,8 @@ export const BaseTheme = {
                 borderColor: Colors.white30,
             },
             blue: {
-                backgroundColor: Colors.blue50,
-                borderColor: Colors.blue100,
+                backgroundColor: Colors.black,
+                borderColor: Colors.black,
             },
             red: {
                 backgroundColor: Colors.red100,
